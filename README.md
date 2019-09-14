@@ -10,3 +10,5 @@ Overview:
 * Develop system of equation on which SVD is applied to obtain M (projection matrix)
 * After obtaining the projection matrix solve for the camera parameters by computing systematically a series of equation
 * Use RANSAC algorithm to extract the best camera parameters
+
+![image](https://github.com/Zylog101/Non-coplanar-camera-calibration/blob/master/Image/CCalib.JPG)
